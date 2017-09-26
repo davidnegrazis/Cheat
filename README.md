@@ -4,7 +4,7 @@ An online card game for friends and AI alike.
 ### Overview
 This is an online application for the card game _Cheat_ built with PHP and MySQL. The reason I built this was my friend lost his deck of cards with which our friend group would play cards with at lunchtime, including _Cheat_, so I decided to make bring it online. No more pesky cards to worry about!
 
-There are no modes: single-player and multi-player. `cheat_game.php` is the main script for the single-player mode, and `cheat_mp.php` is the main script for the multi-player mode. As expected, there are bots that play alongside the human players. Single-player throws the user into a game with a custom number of bots, and multi-player supports both human and bots to play with each other.
+There are two modes: single-player and multi-player. `cheat_game.php` is the main script for the single-player mode, and `cheat_mp.php` is the main script for the multi-player mode. As expected, there are bots that play alongside the human players. Single-player throws the user into a game with a custom number of bots, and multi-player supports both human and bots to play with each other.
 
 Let's take a look at **multiplayer**. Single-player shares many of the features.
 
